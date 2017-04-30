@@ -1,2 +1,2 @@
 # MyFirstRepo
-It is only for explorr
+It is only for exploer.
